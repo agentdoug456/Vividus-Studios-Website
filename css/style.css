@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Roboto";
   font-weight: 400;
   font-size: 18px;
   line-height: 1.7;
@@ -59,12 +59,12 @@ a:hover, a:active, a:focus {
 }
 
 p {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Roboto";
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   text-transform: uppercase;
   font-weight: 700;
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: ""Inconsolata", Arial, sans-serif";
 }
 .fh5co-nav #fh5co-logo a span {
   color: #DD356E;
@@ -301,6 +301,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-header .display-tc,
 .fh5co-cover .display-tc {
   display: table-cell !important;
+
   vertical-align: middle;
 }
 #fh5co-header .display-tc h1, #fh5co-header .display-tc h2,
